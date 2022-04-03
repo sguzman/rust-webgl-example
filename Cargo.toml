@@ -3,12 +3,6 @@ name = "rust-webgl-example"
 version = "0.1.0"
 edition = "2021"
 
-[package]
-name = "webgl"
-version = "0.1.0"
-authors = ["The wasm-bindgen Developers"]
-edition = "2018"
-
 [lib]
 crate-type = ["cdylib"]
 
